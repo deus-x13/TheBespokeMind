@@ -35,7 +35,7 @@ export default function Navbar() {
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <nav className="flex items-center justify-between py-4">
           <Link href="/" className="flex items-center">
-            <span className="text-2xl font-bold font-heading text-primary">The Bespoke Mind</span>
+            <img src="/src/assets/bespoke-mind-logo.png" alt="The Bespoke Mind Logo" className="h-12 mr-2" />
           </Link>
           
           <div className="hidden md:flex items-center space-x-8">

@@ -8,16 +8,16 @@ export default function ApproachSection() {
       icon: <Users className="h-6 w-6 text-primary" />,
       title: "Rewire Teams",
       description: "Build trust, communication, and collaboration with immersive team development experiences.",
-      image: "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=400",
-      alt: "Team development session with diverse professionals",
+      image: "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=400",
+      alt: "Team development session with Asian professionals",
       bgColor: "bg-primary/10"
     },
     {
       icon: <Brain className="h-6 w-6 text-secondary" />,
       title: "Rewire Leadership",
       description: "Empower leaders with empathy, emotional intelligence, and human-centered strategies.",
-      image: "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=400",
-      alt: "Leadership coaching session with diverse executives",
+      image: "https://images.unsplash.com/photo-1507537231947-f2ff14bc1554?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=400",
+      alt: "Leadership coaching session with Asian executives",
       bgColor: "bg-secondary/10"
     },
     {
