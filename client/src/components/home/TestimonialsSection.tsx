@@ -7,7 +7,7 @@ export default function TestimonialsSection() {
       quote: "The Bespoke Mind transformed how our leadership team approaches challenges. Their design thinking workshop sparked a level of creativity and collaboration we hadn't experienced before. The results were immediate and lasting."
     },
     {
-      name: "Marcus Chen",
+      name: "Ken Tanaka",
       role: "Head of People, TechForward",
       image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&h=200",
       quote: "What impressed me most about The Bespoke Mind was how they tailored their approach to our specific culture and challenges. The human-centered leadership series has fundamentally changed how our managers show up for their teams."

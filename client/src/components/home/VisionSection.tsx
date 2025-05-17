@@ -15,8 +15,8 @@ export default function VisionSection() {
           
           <div className="mt-10">
             <img 
-              src="https://images.unsplash.com/photo-1574362848149-11496d93a7c7?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&h=600" 
-              alt="Asian professionals collaborating in a creative team environment" 
+              src="https://images.unsplash.com/photo-1552664730-d307ca884978?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&h=600" 
+              alt="Collaborative team meeting with positive engagement" 
               className="rounded-xl shadow-lg w-full h-auto" 
             />
           </div>
