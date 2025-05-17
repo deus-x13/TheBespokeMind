@@ -23,7 +23,7 @@ export default function Footer() {
             </p>
             
             <div className="flex space-x-4">
-              <a href="https://linkedin.com" className="text-neutral-400 hover:text-white transition-colors" aria-label="LinkedIn">
+              <a href="https://www.linkedin.com/company/the-bespoke-mind/" className="text-neutral-400 hover:text-white transition-colors" aria-label="LinkedIn">
                 <Linkedin className="h-5 w-5" />
               </a>
               <a href="https://twitter.com" className="text-neutral-400 hover:text-white transition-colors" aria-label="Twitter">

@@ -24,8 +24,8 @@ export default function ApproachSection() {
       icon: <Lightbulb className="h-6 w-6 text-accent" />,
       title: "Rewire Innovation",
       description: "Solve complex problems creatively through hands-on design thinking workshops.",
-      image: "https://images.unsplash.com/photo-1517048676732-d65bc937f952?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=400",
-      alt: "Design thinking workshop with collaborative problem-solving",
+      image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=400",
+      alt: "Design thinking workshop with Asian professionals problem-solving",
       bgColor: "bg-accent/10"
     }
   ];
@@ -73,7 +73,7 @@ export default function ApproachSection() {
             asChild
             className="bg-primary hover:bg-primary/90 py-6 px-8 text-base"
           >
-            <Link href="/#programs">See How It Works</Link>
+            <Link href="/programs">See How It Works</Link>
           </Button>
         </div>
       </div>
